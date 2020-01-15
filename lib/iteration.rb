@@ -42,4 +42,6 @@ def total_even_pairs(src)
   # this
   new_array = []
   i = 0 
+  while i < src.count do 
+    if src[i] % 2 == 0 
 end
